@@ -1,19 +1,19 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
+title:            Michael LeBarron
+description:      
+disqus_shortname: mlebarron
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://lebarron.org
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Michael LeBarron
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:          michael@lebarron.org
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        mlebarron
   facebook:       
-  github:         
+  github:         mlebarron
   stackexchange:  
   linkedin:       
   instagram:      
