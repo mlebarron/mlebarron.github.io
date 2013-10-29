@@ -8,14 +8,14 @@ url:              http://lebarron.org
 owner:
   name:           Michael LeBarron
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            ""
   email:          michael@lebarron.org
   # Social networking links used in footer. Update and remove as you like.
   twitter:        mlebarron
   facebook:       
   github:         mlebarron
   stackexchange:  
-  linkedin:       
+  linkedin:       mlebarron
   instagram:      
   flickr:         
   tumblr:         
@@ -31,11 +31,6 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
