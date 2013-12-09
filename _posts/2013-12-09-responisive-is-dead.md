@@ -4,7 +4,6 @@ title: "Responsive is dead, long live responsive"
 description: "Thoughts and a bit of a rant on responsive design"
 tags: [responsive]
 comments: true
-published: true
 ---
 
 ### Responsive is dead
