@@ -19,7 +19,8 @@ description: "An archive of posts."
   <div class="entry-content" itemprop="description">
   Hello I am a test
     <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %} <a href="{{ site.url }}{{ post.url }}">Continue reading</a></p>
-    also a test
+    I'm testing!
+    what up?
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
